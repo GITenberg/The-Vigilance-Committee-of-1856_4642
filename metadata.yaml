@@ -1,0 +1,28 @@
+_repo: The-Vigilance-Committee-of-1856_4642
+_version: 0.0.1
+creator:
+  author:
+    agent_name: O'Meara, James
+    alias: O'Meara, J. (James)
+    birthdate: 1825
+    deathdate: 1903
+    gutenberg_agent_id: '1526'
+    url: http://www.gutenberg.org/2009/agents/1526
+description: Describes the actions of the San Francisco Committee of Vigilance that
+  resulted in the lynching of James P. Casey and Charles Cora following the murder
+  of James King.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4642'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'San Francisco Committee of Vigilance of 1856 -- History'
+- !lcsh 'Vigilance committees -- California -- San Francisco'
+- GITenberg
+title: The Vigilance Committee of 1856
+url: http://www.gutenberg.org/ebooks/4642
